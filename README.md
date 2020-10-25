@@ -87,10 +87,7 @@ Objective 4 : The total suicide number grouping by sex in each year.
 
 # Visualisation results. 
 
-HTML of objective 1 : 
-HTML of objective 2 : 
-HTML of objective 3 : 
-HTML of objective 4 : 
+
 
 # Any final design reflections or observations.
 
