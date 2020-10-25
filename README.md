@@ -33,7 +33,9 @@ We remove all row that have NULL value in Suicide No and Population.
 # Contribution of each team member. 
 
 Sasa Manasboonpermpoon 20302647: objective 2 and objective 4
+
 Pakcheera Choppradit 20303349 : objective 1 and objective 3
+
 Both of us helped each other to do Readme.md and slide.
 
 
@@ -93,10 +95,13 @@ https://public.tableau.com/shared/TPG6W3Z3D?:display_count=y&:origin=viz_share_l
 Objective 2
 https://public.tableau.com/profile/pakcheera.choppradit#!/vizhome/ProjectMEDA/Dashboard2
 
+
 Objective 3
+
 ![122318408_390119215452628_4200788995826467428_n](https://user-images.githubusercontent.com/73279529/97108009-29472f00-16fd-11eb-8eb7-a3c935b6210d.png)
 
 Objective 4
+
 ![122413637_479076103043914_701202544498308207_n](https://user-images.githubusercontent.com/73279529/97108010-2a785c00-16fd-11eb-98d7-94a909c20d6f.png)
 
 
