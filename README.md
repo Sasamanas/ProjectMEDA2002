@@ -41,8 +41,12 @@ Both of us helped each other to do Readme.md and slide.
 
 # A clear description of how to execute/run the project and on which platform.
 
-Firstly, we import data (who_suicide_statistics.csv) to R to clean it and save to name Cleandata_1.csv for use in Tableau. Then we do each objective in following :
+Firstly, we import data (who_suicide_statistics.csv) to R to clean it and save to name Cleandata_1.csv for use in Tableau.
+
+Then we do each objective in following :
+
 R (ggplot2 and plotly) : objective 3 and  objective 4
+
 Tableau :  objective 1 and objective 2.
 
 # explain the graph of each objective. 
@@ -89,18 +93,18 @@ Objective 4 : The total suicide number grouping by sex in each year.
 <img width="1440" alt="Screen Shot 2020-10-24 at 7 09 19 pm" src="https://user-images.githubusercontent.com/73279529/97081390-5e378100-162c-11eb-83d0-fedfdf2408cd.png">
 
 # Visualisation results. 
-Objective 1
+Interactive graph of objective 1 :
 https://public.tableau.com/shared/TPG6W3Z3D?:display_count=y&:origin=viz_share_link
 
-Objective 2
+Interactive graph objective 2
 https://public.tableau.com/profile/pakcheera.choppradit#!/vizhome/ProjectMEDA/Dashboard2
 
 
-Objective 3
+Picture of objective 3
 
 ![122318408_390119215452628_4200788995826467428_n](https://user-images.githubusercontent.com/73279529/97108009-29472f00-16fd-11eb-8eb7-a3c935b6210d.png)
 
-Objective 4
+Picture of objective 3
 
 ![122413637_479076103043914_701202544498308207_n](https://user-images.githubusercontent.com/73279529/97108010-2a785c00-16fd-11eb-98d7-94a909c20d6f.png)
 
