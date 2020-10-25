@@ -2,7 +2,7 @@
 
 # A project summary
 There are 4 objectives which are 
-1. Overall of a groups of countries and each country in map and bar chart.
+1. Overall of each country in map and bar chart.
 2. The trend of the most n countries of average suicide rate showing in each year.
 3. The total suicide number grouping by ages in each year.
 4. The total suicide number grouping by sex in each year. 
@@ -113,7 +113,7 @@ Picture of objective 3
 # Any final design reflections or observations.
 
 The report has 4 objectives which are :
-1. Overall of a groups of countries and each country in map and bar chart.
+1. Overall of each country in map and bar chart.
 2. The trend of the most n countries of average suicide rate showing in each year.
 3. The total suicide number grouping by ages in each year.
 4. The total suicide number grouping by sex in each year. 
