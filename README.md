@@ -2,14 +2,14 @@
 
 # A project summary
 There are 4 objectives which are 
-1. Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
-2. The trend of the most n countries of average suicide number showing in each year.
+1. Overall of a groups of countries and each country in map and bar chart.
+2. The trend of the most n countries of average suicide rate showing in each year.
 3. The total suicide number grouping by ages in each year.
 4. The total suicide number grouping by sex in each year. 
 
-The first objective,using the geovisualisation to represent the world map and use the bar charts to show suicide number that compares by age in each country and sex. 
+The first objective,using the geovisualisation to represent the world map the scale of circle showing the number of average population, the color show number of average suicide and use the bar charts to show suicide number that compares by age in each country and sex. 
 
-The second objective, using the multiple line chart to represent the top n of suicide country. For example, the top 3 of suicide countries are Russia, USA, JAPAN. Furthermore, the visualisation has regression line to forecast the suicide future trend.
+The second objective, using the multiple line chart to represent the top n countries of suicide rate. For example, the top 3 countries of suicide rate are Hungary, Lithuania and Russia. Furthermore, the visualisation has regression line to forecast the suicide future trend.
 
 The third objective, using the scatterplot to shows the suicide number in each age and in each year. Moreover, using regression line to forecast the suicide future trend. 
 
@@ -113,13 +113,14 @@ Picture of objective 3
 # Any final design reflections or observations.
 
 The report has 4 objectives which are :
-1.Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
-2. The trend of the most n countries of average suicide number showing in each year
-3. The total suicide number grouping by ages in each year 
+1. Overall of a groups of countries and each country in map and bar chart.
+2. The trend of the most n countries of average suicide rate showing in each year.
+3. The total suicide number grouping by ages in each year.
 4. The total suicide number grouping by sex in each year. 
 
 After creating visualisation of all of these objectives, visualisation reflects several things. Firstly, the first objective shows the overall of suicide statistic. Therefore, it is more effective for creating geovisualization with other visualisations in the same frame helps viewer to more understand the detail of suicide data in each country. In this case, we create bar charts for using to compare sex and a range of age in each country. 
 
+# ต้องแก้
 Secondly, the country that has high competition such as Japan and USA is one of the country that get one of the highest suicide number. Due to the second visualisation, the most 3 countries that commit suicide are Russia, USA and Japan, respectively. Moreover, this visualisation is able to forecast the future trend in each country. According to the second visualisation, Russia have lower trend to commit suicide in the future whereas USA and Japan have highter trend to commit suicidein the future. 
 
 Next, age range also has effect to commit suicide. According to the third visualisation the age that has the highest suicide number is 35-54 years, whereas the age range that has the lowest suicide number is 5-14 years.
