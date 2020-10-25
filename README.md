@@ -20,6 +20,7 @@ The fourth objective, using the scatterplot to shows the suicide number in each 
 
 Source Data : https://github.com/pakcheera/ProjectMEDA/blob/main/who_suicide_statistics.csv
 		Or  https://www.kaggle.com/szamil/who-suicide-statistics
+		
 Cleaning Data : https://github.com/pakcheera/ProjectMEDA/blob/main/cleandata_1.csv
 		 ( it also can be generated from R file in the project) 
 
@@ -42,7 +43,7 @@ Firstly, we import data (who_suicide_statistics.csv) to R to clean it and save t
 R (ggplot2 and plotly) : objective 3 and  objective 4
 Tableau :  objective 1 and objective 2.
 
-# Any related media: visuals and screenshots. 
+# explain the graph of each objective. 
 
 Objective 1 : Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
 
@@ -87,6 +88,7 @@ Objective 4 : The total suicide number grouping by sex in each year.
 
 # Visualisation results. 
 Objective 1
+https://public.tableau.com/shared/TPG6W3Z3D?:display_count=y&:origin=viz_share_link
 
 Objective 2
 https://public.tableau.com/profile/pakcheera.choppradit#!/vizhome/ProjectMEDA/Dashboard2
