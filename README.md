@@ -53,7 +53,7 @@ Tableau :  objective 1 and objective 2.
 
 Objective 1 : Overall of each country in map and bar chart.
 
-<img width="1440" alt="Screen Shot 2020-10-23 at 8 51 23 pm" src="https://user-images.githubusercontent.com/73279529/97080567-82905f00-1626-11eb-8dfa-e6f47ca692d6.png">
+<img width="1440" alt="Screen Shot 2020-10-23 at 8 51 23 pm" src="https://i.imgur.com/u5YG5CT.png">
 
 <img width="1440" alt="Screen Shot 2020-10-24 at 6 43 23 pm" src="https://user-images.githubusercontent.com/73279529/97080859-bc626500-1628-11eb-8c16-b5eb615cf0d1.png">
 Suicide statistic that compares by sex and compares by a range of age in each Russia.
