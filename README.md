@@ -51,7 +51,7 @@ Tableau :  objective 1 and objective 2.
 
 # explain the graph of each objective. 
 
-Objective 1 : Overall of suicide statistic that compares by sex and compares by a range of age in each country or group country showing by map and bar chart.
+Objective 1 : Overall of each country in map and bar chart.
 
 <img width="1440" alt="Screen Shot 2020-10-23 at 8 51 23 pm" src="https://user-images.githubusercontent.com/73279529/97080567-82905f00-1626-11eb-8dfa-e6f47ca692d6.png">
 
