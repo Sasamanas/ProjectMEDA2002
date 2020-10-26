@@ -63,9 +63,10 @@ It can also show the group of country that you want to see the over all by cover
 
 Object 2 : Top n countries of average suicide rate Vs year and suicide number Vs year of each country. 
 
-<img width="1438" alt="Screen Shot 2020-10-24 at 6 49 15 pm" src="https://user-images.githubusercontent.com/73279529/97080990-9d180780-1629-11eb-8e9c-05648e25e0ac.png">
-This screenshot shows the trend of the most 3 countries that has the highest suicide number in each year. 
+In the first graph show the Top n country of suicide number VS year and second graph show the selected country Vs year. Both graphs also show the trend line. 
+<img width="1438" alt="Screen Shot 2020-10-24 at 6 49 15 pm" src="https://i.imgur.com/LbFVED3.png">
 
+In the first graph you can change the number of Top n like in the graph below I choose 3. In the second graph it can choose the counrty that you want to see in this case I choose thailand
 <img width="1440" alt="Screen Shot 2020-10-24 at 6 49 24 pm" src="https://user-images.githubusercontent.com/73279529/97080992-9e493480-1629-11eb-99f6-4746f90c9248.png">
 This screebshot shows the regression line of Japan that able to forecast the future trend of suicide number in Japan. Moreover, it also displays the equation of suicide number that use to forecast, R-squared and P-value.
 
