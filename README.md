@@ -90,15 +90,15 @@ Objective 4 : The total suicide number grouping by sex in each year.
 Interactive graph of objective 1 :
 https://public.tableau.com/shared/TPG6W3Z3D?:display_count=y&:origin=viz_share_link
 
-Interactive graph objective 2
+Interactive graph objective 2 :
 https://public.tableau.com/profile/pakcheera.choppradit#!/vizhome/ProjectMEDA/Dashboard2
 
 
-Picture of objective 3
+Picture of objective 3 :
 
 ![122318408_390119215452628_4200788995826467428_n](https://user-images.githubusercontent.com/73279529/97108009-29472f00-16fd-11eb-8eb7-a3c935b6210d.png)
 
-Picture of objective 3
+Picture of objective 4 :
 
 ![122413637_479076103043914_701202544498308207_n](https://user-images.githubusercontent.com/73279529/97108010-2a785c00-16fd-11eb-98d7-94a909c20d6f.png)
 
