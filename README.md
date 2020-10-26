@@ -49,6 +49,13 @@ R (ggplot2 and plotly) : objective 3 and  objective 4
 
 Tableau :  objective 1 and objective 2.
 
+In R programimg
+After we clean the data we import ggplot2 and plotly then we use aggregate function to create Sex table and Age table that sum number of suicide number and population grouping by Sex and Age, respectively. Then we use ggplot to plot graph and add trend line. Finally we use plotly to create the interactive graph. Finally, we export the graphs in html file.
+
+In Tableau tools
+
+
+
 # explain the graph of each objective. 
 
 Objective 1 : Overall of each country in map and bar chart.
