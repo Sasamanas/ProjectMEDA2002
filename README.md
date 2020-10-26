@@ -52,17 +52,16 @@ Tableau :  objective 1 and objective 2.
 # explain the graph of each objective. 
 
 Objective 1 : Overall of each country in map and bar chart.
-
 <img width="1440" alt="Screen Shot 2020-10-23 at 8 51 23 pm" src="https://i.imgur.com/u5YG5CT.png">
 
-<img width="1440" alt="Screen Shot 2020-10-24 at 6 43 23 pm" src="https://user-images.githubusercontent.com/73279529/97080859-bc626500-1628-11eb-8c16-b5eb615cf0d1.png">
-Suicide statistic that compares by sex and compares by a range of age in each Russia.
+It can choose only one country that you want to see the over all by clicking the name of country in the map. For example, in the graph show suicide statistic that compares by sex and compares by a range of age in each Russia.
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 43 23 pm" src="https://i.imgur.com/KCbp2Yh.png">
 
-<img width="1440" alt="Screen Shot 2020-10-24 at 6 44 37 pm" src="https://user-images.githubusercontent.com/73279529/97080877-dac86080-1628-11eb-9be6-9b1fff4f6cc0.png">
-Suicide statistic that compares by sex and compares by a range of age in each Protogal.
+It can also show the group of country that you want to see the over all by cover the name of countries in the map  like in the picture below.
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 44 37 pm" src="https://i.imgur.com/sEETNIz.png">
 
 
-Object 2 : The trend of the most n countries of average suicide number showing in each year.
+Object 2 : Top n countries of average suicide rate Vs year and suicide number Vs year of each country. 
 
 <img width="1438" alt="Screen Shot 2020-10-24 at 6 49 15 pm" src="https://user-images.githubusercontent.com/73279529/97080990-9d180780-1629-11eb-8e9c-05648e25e0ac.png">
 This screenshot shows the trend of the most 3 countries that has the highest suicide number in each year. 
