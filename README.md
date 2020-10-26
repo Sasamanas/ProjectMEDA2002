@@ -53,7 +53,7 @@ In R programimg
 After we clean the data we import ggplot2 and plotly then we use aggregate function to create Sex table and Age table that sum number of suicide number and population grouping by Sex and Age, respectively. Then we use ggplot to plot graph and add trend line. Finally we use plotly to create the interactive graph. Finally, we export the graphs in html file.
 
 In Tableau tools
-Firstly we created calulation fileds which are average population (sum(population)/countd(year)), average suicide number (sum(suicide number)/countd(year)) and suicide rate(average suicide number/average population). Then, we created the treemap to show propotion of female and male, the bar chart that grouping by range of age and the map that show each country. In the map we use the scale of cricle depends on average population and the color depends on the average suicide number. 
+Firstly we created calulation fileds which are average population (sum(population)/countd(year)), average suicide number (sum(suicide number)/countd(year)) and suicide rate(average suicide number/average population). Then, we created the treemap to show propotion of female and male, the bar chart that grouping by range of age and the map that show each country. In the map we use the scale of cricle depends on average population and the color depends on the average suicide number. addig the action that zoo the map when click and show the treemap and the bar chart of the clicking country. 
 
 
 
