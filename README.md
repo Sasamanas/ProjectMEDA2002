@@ -1,19 +1,9 @@
 # ProjectMEDA2002
 
 # A project summary
-There are 4 objectives which are 
-1. Overall of each country in map and bar chart.
-2. Top n countries of average suicide rate Vs year and suicide number Vs year of each country. 
-3. The total suicide number grouping by ages in each year.
-4. The total suicide number grouping by sex in each year. 
 
-The first objective,using the geovisualisation to represent the world map the scale of circle showing the number of average population, the color show number of average suicide and use the bar charts to show suicide number that compares by age in each country and sex. 
-
-The second objective, using the multiple line chart to represent the top n countries of suicide rate. For example, the top 3 countries of suicide rate are Hungary, Lithuania and Russia. Moverover, having suicide number Vs year of each country. 
-
-The third objective, using the scatterplot to shows the suicide number in each age and in each year. Moreover, using regression line to forecast the suicide future trend. 
-
-The fourth objective, using the scatterplot to shows the suicide number in each sex and in each year. Moreovr, this visaulisation also has regression line for forecast the suicide future trend. 
+Unemployment, Hard broken and the loss of family members is the grief that no one wants it to happen. Sometimes a way for people to escape pain or suffering is suicide. Around 800 000 people commit suicide and there are a lot of people who attempt suicide every year. Our project has 4 objectives which are 1. Overall of each country in map and bar chart, 2. Top n countries of average suicide rate Vs year and suicide number Vs year of each country, 3. The total suicide number grouping by ages in each year and 4. The total suicide number grouping by sex in each year. 
+The first objective,using the geovisualisation to represent the world map the scale of circle showing the number of average population, the color show number of average suicide and use the bar charts to show suicide number that compares by age in each country and sex. The second objective, using the multiple line chart to represent the top n countries of suicide rate. For example, the top 3 countries of suicide rate are Hungary, Lithuania and Russia. Moverover, having suicide number Vs year of each country.The third objective, using the scatterplot to shows the suicide number in each age and in each year. Moreover, using regression line to forecast the suicide future trend.The fourth objective, using the scatterplot to shows the suicide number in each sex and in each year. Moreovr, this visaulisation also has regression line for forecast the suicide future trend. 
 
 
 # The data source (or a stable link to the data source, say to GitHub).
@@ -53,7 +43,7 @@ In R programimg
 After we clean the data we import ggplot2 and plotly then we use aggregate function to create Sex table and Age table that sum number of suicide number and population grouping by Sex and Age, respectively. Then we use ggplot to plot graph and add trend line. Finally we use plotly to create the interactive graph. Finally, we export the graphs in html file.
 
 In Tableau tools
-Firstly we created calulation fileds which are average population (sum(population)/countd(year)), average suicide number (sum(suicide number)/countd(year)) and suicide rate(average suicide number/average population). Then, we created the treemap to show propotion of female and male, the bar chart that grouping by range of age and the map that show each country. In the map we use the scale of cricle depends on average population and the color depends on the average suicide number. Adding all of them in dashboard2 and addig the action that zoom the map when click and show the treemap and the bar chart of the clicking country. Creating country parameters that can selected the country that want to show in the second graph of objective2 and Top n parameter and Top n set that can input the interger to show Top n suicide rate. Putting it in filters. Then we will get the Dashboard1.
+Firstly we created calulation fileds which are average population (sum(population)/countd(year)), average suicide number (sum(suicide number)/countd(year)) and suicide rate(average suicide number/average population). Then, we created the treemap to show propotion of female and male, the bar chart that grouping by range of age and the map that show each country. In the map we use the scale of cricle depends on average population and the color depends on the average suicide number. addig the action that zoo the map when click and show the treemap and the bar chart of the clicking country. 
 
 
 
@@ -120,10 +110,9 @@ The report has 4 objectives which are :
 3. The total suicide number grouping by ages in each year.
 4. The total suicide number grouping by sex in each year. 
 
-After creating visualisation of all of these objectives, visualisation reflects several things. Firstly, the first objective shows the overall of suicide statistic. Therefore, it is more effective for creating geovisualization with other visualisations in the same frame helps viewer to more understand the detail of suicide data in each country. In this case, we create bar charts for using to compare sex and a range of age in each country. 
+After creating visualisation of all of these objectives, visualisation reflects several things. Firstly, the first objective shows the overall of suicide statistic. Therefore, it is more effective for creating geovisualization with other visualisations in the same frame helps viewer to more understand the detail of suicide data in each country. In this case, we create bar charts for using to compare sex and a range of age in each country. Moreover, the size and color of circle that located in each country depend on the suicide number. By in the country that has a large suicide number has the big and dark red circle such as Russia. Whereas, the country that has a small suicide number has the small and light yellow circle such as Denmark. furthermore, it could custome the zone of country that interested in to see the suicide statistics. 
 
-# ต้องแก้
-Secondly, the country that has high competition such as Japan and USA is one of the country that get one of the highest suicide number. Due to the second visualisation, the most 3 countries that commit suicide are Russia, USA and Japan, respectively. Moreover, this visualisation is able to forecast the future trend in each country. According to the second visualisation, Russia have lower trend to commit suicide in the future whereas USA and Japan have highter trend to commit suicidein the future. 
+Secondly, the country that seem to be peaceful and doesn't has the high competition such as Hungary, Lithuania is one of the country that get one of the highest suicide number. Due to the second visualisation, the most 3 countries that commit suicide are Hungary, Lithuania and Russia respectively. Moreover, this visualisation is able to forecast the future trend in each country. According to the second visualisation, Russia and Hungary have lower trend to commit suicide in the future whereas Lithuania seems to remain constant have trend to commit suicidein the future. 
 
 Next, age range also has effect to commit suicide. According to the third visualisation the age that has the highest suicide number is 35-54 years, whereas the age range that has the lowest suicide number is 5-14 years.
 
