@@ -66,15 +66,9 @@ Object 2 : Top n countries of average suicide rate Vs year and suicide number Vs
 In the first graph show the Top n country of suicide number VS year and second graph show the selected country Vs year. Both graphs also show the trend line. 
 <img width="1438" alt="Screen Shot 2020-10-24 at 6 49 15 pm" src="https://i.imgur.com/LbFVED3.png">
 
-In the first graph you can change the number of Top n like in the graph below I choose 3. In the second graph it can choose the counrty that you want to see in this case I choose thailand
-<img width="1440" alt="Screen Shot 2020-10-24 at 6 49 24 pm" src="https://user-images.githubusercontent.com/73279529/97080992-9e493480-1629-11eb-99f6-4746f90c9248.png">
-This screebshot shows the regression line of Japan that able to forecast the future trend of suicide number in Japan. Moreover, it also displays the equation of suicide number that use to forecast, R-squared and P-value.
+In the first graph you can change the number of Top n like in the graph below I choose 5. In the second graph it can choose the counrty that you want to see in this case I choose thailand
+<img width="1440" alt="Screen Shot 2020-10-24 at 6 49 24 pm" src="https://i.imgur.com/ub5P8aE.png">
 
-<img width="1440" alt="Screen Shot 2020-10-24 at 6 49 33 pm" src="https://user-images.githubusercontent.com/73279529/97080993-9f7a6180-1629-11eb-9272-4fbbabfa064a.png">
-This screenshot shows suicide number in each year of the Russia Federation. This picture is year 2004.
-
-<img width="1440" alt="Screen Shot 2020-10-24 at 6 49 40 pm" src="https://user-images.githubusercontent.com/73279529/97080994-a012f800-1629-11eb-916e-62acd21dd8da.png">
-This screenshot shows the trend of the most 5 countries that has the highest suicide number in each year. 
 
 Objective 3 : The total suicide number grouping by ages in each year.
 
